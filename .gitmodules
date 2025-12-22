@@ -1,0 +1,9 @@
+[submodule "pattern-recognition"]
+	path = pattern-recognition
+	url = git@github.com:abjin/pattern-recognition-notes.git
+[submodule "computer-vision"]
+	path = computer-vision
+	url = git@github.com:abjin/computer-vision-notes.git
+[submodule "transformer-notes"]
+	path = transformer-notes
+	url = git@github.com:abjin/transformer-notes.git
