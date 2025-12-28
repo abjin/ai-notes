@@ -13,6 +13,6 @@ ai-notes/
 ├── pattern-recognition/
 ├── computer-vision/       
 ├── transformer-notes/
-├── retrieval-augmented-generation-notes/
+├── rag-optimization-experiment/
 └── README.md
 ```

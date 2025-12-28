@@ -7,7 +7,7 @@
 [submodule "transformer-notes"]
 	path = transformer-notes
 	url = git@github.com:abjin/transformer-notes.git
-[submodule "retrieval-augmented-generation-notes"]
-	path = retrieval-augmented-generation-notes
-	url = git@github.com:abjin/retrieval-augmented-generation-notes.git
+[submodule "rag-optimization-experiment"]
+	path = rag-optimization-experiment
+	url = github.com/abjin/rag-optimization-experiment.git
 
