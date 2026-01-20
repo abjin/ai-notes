@@ -11,3 +11,6 @@
 	path = rag-optimization-experiment
 	url = github.com/abjin/rag-optimization-experiment.git
 
+[submodule "paper-review"]
+	path = paper-review
+	url = https://github.com/abjin/paper-review

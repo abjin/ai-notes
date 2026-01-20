@@ -11,8 +11,9 @@
 ```text
 ai-notes/
 ├── pattern-recognition/
-├── computer-vision/       
+├── computer-vision/
 ├── transformer-notes/
 ├── rag-optimization-experiment/
+├── paper-review/
 └── README.md
 ```
